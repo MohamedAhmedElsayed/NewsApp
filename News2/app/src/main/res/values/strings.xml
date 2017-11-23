@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="SearchHint">Search News</string>
+</resources>
